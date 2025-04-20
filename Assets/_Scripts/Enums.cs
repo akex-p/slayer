@@ -8,3 +8,10 @@ public enum MovementState
     SPRINTING,
     AIRBORNE
 }
+
+public enum TimingAccuracy
+{
+    MISS,
+    GOOD,
+    PERFECT
+}
